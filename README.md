@@ -38,8 +38,6 @@ Movie-Recommendation-System/
 ├── reviews.csv
 ├── README.md
 ├── requirements.txt
-├── .gitignore
-└── screenshots/
 
 ## How to Run
 
